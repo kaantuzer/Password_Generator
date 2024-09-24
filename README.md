@@ -1,0 +1,1 @@
+This Python script generates a secure, custom password based on user input. By selecting random numbers, letters, and symbols, it creates a strong, shuffled password tailored to your needs, perfect for protecting sensitive data.
